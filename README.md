@@ -1,4 +1,5 @@
-## 录屏：链接：https://pan.baidu.com/s/10xir-IvF7rAym-XYiB8voQ 提取码：rhzb
+## 录屏：云盘链接
+链接：https://pan.baidu.com/s/10xir-IvF7rAym-XYiB8voQ 提取码：rhzb
 ## 安装过程：
 #### 1.安装unity：
 点击安装包安装然后注册登录即可
